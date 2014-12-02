@@ -1,0 +1,1 @@
+Employ Me is a multi-tenant job posting site, where businesses can post their jobs available and job seekers can apply for these jobs. This is a group project that takes an exisiting code base and adds or changes previous functionality. Team members included Corey Davis, Horacio Chavez, Alan Smith, and Robert Gu.
